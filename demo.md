@@ -16,9 +16,9 @@ Which shows as:
 
 Here is how to embed the video:
 
-```markdown
-{\% include youtube.html id="JLMbpiywVxQ" \%}  
-```
+{% raw %}
+{% include youtube.html id="JLMbpiywVxQ" %}  
+{% endraw %}
 
 {% include youtube.html id="JLMbpiywVxQ" %}  
 
