@@ -17,8 +17,8 @@ Which shows as:
 Here is how to embed the video:
 
 ```markdown
-{% include youtube.html id="JLMbpiywVxQ" %}  
-```       
+{\% include youtube.html id="JLMbpiywVxQ" \%}  
+```
 
 {% include youtube.html id="JLMbpiywVxQ" %}  
 
